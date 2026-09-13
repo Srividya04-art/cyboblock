@@ -15,6 +15,7 @@ cyboblock/
 
 The project follows this flow:
 
+```
 Blockly Blocks
       ↓
 Generated JSON
@@ -28,7 +29,7 @@ Java Runner
 Turtle Execution
       ↓
 Console Output
-
+```
 ## Part A — React Block Editor
 
 The web application provides four custom Blockly blocks:
@@ -162,13 +163,13 @@ The Java runner was tested with:
 5. Malformed JSON
 
 A nested repeat test produced:
-
-1. Hello
-2. Hello
-3. Hello
-4. Hello
-5. Final position: (0, 0) facing North
-
+```
+Hello
+Hello
+Hello
+Hello
+Final position: (0, 0) facing North
+```
 ## AI Usage
 
 AI tools were used during development for:
