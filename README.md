@@ -10,7 +10,7 @@ cyboblock/
 ├── runner/    # Part B - Java program runner
 ├── README.md
 └── .gitignore
-
+```
 How It Works
 
 The project follows this flow:
