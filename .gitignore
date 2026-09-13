@@ -1,0 +1,15 @@
+# React / Vite
+web/node_modules/
+web/dist/
+web/.env
+
+# Maven / Java
+runner/target/
+
+# IDE files
+.vscode/
+.idea/
+
+# OS files
+.DS_Store
+Thumbs.db
